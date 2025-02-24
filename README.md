@@ -1,11 +1,11 @@
 ```
-Project Explanation
+**Project Explanation**
 
 This project is building a Student Research Assistance application using Streamlit as UI and the Autogen as agentic AI framework. It aims to help students with their research by:
 
-Fetching Research Papers: It uses a DataLoader class to retrieve relevant papers from sources like arXiv based on a user's query.
-Summarizing and Analyzing: It utilizes a ResearchAgent class to summarize the fetched papers and potentially analyze their advantages and disadvantages.
-Presenting Results: It leverages Streamlit's interactive UI elements to display the search results, summaries, and analysis to the user in a user-friendly way.
+**Fetching Research Papers**: It uses a DataLoader class to retrieve relevant papers from sources like arXiv based on a user's query.
+**Summarizing and Analyzing**: It utilizes a ResearchAgent class to summarize the fetched papers and potentially analyze their advantages and disadvantages.
+**Presenting Results**: It leverages Streamlit's interactive UI elements to display the search results, summaries, and analysis to the user in a user-friendly way.
  
 # Student Research Assistance
 
